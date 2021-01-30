@@ -1,2 +1,3 @@
-# AlgorithmsAndDataStructures
-Algoritm and data structure implementations for a tech interview
+# Tech Intervew Prep
+
+Algoritms and data structures implementations for a tech interview.
