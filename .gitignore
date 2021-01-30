@@ -1,0 +1,8 @@
+# Root gitignore
+
+# Java compiled bytecode
+*.class
+
+# C++ compiled source
+*.out
+
