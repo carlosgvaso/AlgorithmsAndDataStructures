@@ -1,4 +1,4 @@
-/**Merg Sort */
+/**Quick Sort */
 
 #include <iostream> // cout
 #include <stdlib.h> // srand, rand
