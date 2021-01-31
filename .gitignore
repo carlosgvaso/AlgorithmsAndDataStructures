@@ -6,3 +6,5 @@
 # C++ compiled source
 *.out
 
+# VS Code configs
+*.vscode
